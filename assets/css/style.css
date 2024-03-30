@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#nav_item a:hover{
+   background-color: green;
+   color: white;
+   border-radius:5px;
+}
+.hero_Title{
+    margin-top:5rem;
+    color: white;
+    font-weight: bold;
+}
+.hero_title2{
+    color:#cfcfbb;
+
+}
+.service_title{
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
+.dev-icon{
+    height: 3rem;
+
+}
+.dev-title{
+    text-align: center;
+    font-size: 1.5rem;
+    padding: 1rem;
+}
+#ghor1{
+    padding: 2rem;
+}
+#ghor1:hover{
+    background-color: rgb(5, 110, 38);
+    color: white;
+    border-radius: 15px;
+}
